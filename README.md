@@ -10,4 +10,4 @@
 
  * Is all great art prescriptive, rather than descriptive?
 
- * Most creators have a business that looks like the business the platform wants you to have: most Instagramers have a brand licensing or partnership business, while most YouTubers have an AdSense business. 
+ * Most creators have a business that looks like the business the platform wants you to have: most Instagrammers have a brand licensing or partnership business, while most YouTubers have an AdSense business. 
