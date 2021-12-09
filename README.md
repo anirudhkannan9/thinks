@@ -15,3 +15,5 @@
  * From a YT comment on a video of Thiel speaking in Miami in late 2021: "On psychology Girard said in a way that it misses the mark.  It seeks to psychologize the individual when what is at play is a relationship.  Even at the lowest level the relationship between the psychologist and patient."
 
 * Img: https://i.redd.it/jyfc2gyya9i51.jpg . "Why I have trust issues". Different tape measures showing different lengths corresponding to an inch. My suspicion -- most people would probably think that the longer inch is the actual inch. Is this true? Why or why not?
+
+* Counterpoint to "just start": Reading something (before the event) that changes your epistemological attitudes/reflexive interpretations of events is more than worth it. Why? Epistemology is fundamental (why is epistemology fundamental?). Reflexive interpretation (== perception) is fundamental (I hope I don't need to warrant that perception is fundamental).
