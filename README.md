@@ -17,3 +17,4 @@
 * Img: https://i.redd.it/jyfc2gyya9i51.jpg . "Why I have trust issues". Different tape measures showing different lengths corresponding to an inch. My suspicion -- most people would probably think that the longer inch is the actual inch. Is this true? Why or why not?
 
 * Counterpoint to "just start": Reading something (before the event) that changes your epistemological attitudes/reflexive interpretations of events is more than worth it. Why? Epistemology is fundamental (why is epistemology fundamental?). Reflexive interpretation (== perception) is fundamental (I hope I don't need to warrant that perception is fundamental).
+* [Tim Ferriss' favourite kind of market](https://www.youtube.com/watch?v=sPleJbpqbwc): v precisely defined, easy to target, price-insensitive, high-end market. Can make mistakes if you have tech + design chops.
