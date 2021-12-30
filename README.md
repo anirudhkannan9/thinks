@@ -19,4 +19,4 @@
 * Counterpoint to "just start": Reading something (before the event) that changes your epistemological attitudes/reflexive interpretations of events is more than worth it. Why? Epistemology is fundamental (why is epistemology fundamental?). Reflexive interpretation (== perception) is fundamental (I hope I don't need to warrant that perception is fundamental).
 * [Tim Ferriss' favourite kind of market](https://www.youtube.com/watch?v=sPleJbpqbwc): v precisely defined, easy to target, price-insensitive, high-end market. Can make mistakes if you have tech + design chops.
 * Per the [Atlantic](https://outline.com/cJs5Fe). Dating apps don't provide dates, or access. They provide a feeling of possibility.  
-* Cate Blanchett uncanny valley charity ad - blinking
+* Cate Blanchett [uncanny valley charity ad - blinking](https://imgur.com/MGP9p41). It looks real because of the half-blink/rlly rapid blink
