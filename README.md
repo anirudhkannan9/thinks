@@ -21,3 +21,4 @@
 * Per the [Atlantic](https://outline.com/cJs5Fe). Dating apps don't provide dates, or access. They provide a feeling of possibility.  
 * Cate Blanchett [uncanny valley charity ad - blinking](https://imgur.com/MGP9p41). It looks real because of the half-blink/rlly rapid blink
 * [Asymmetric countermeasures](https://www.quora.com/How-do-you-block-an-infrared-helicopter/answer/Franklin-Veaux?ch=10&oid=331203225&share=a3ad3d73&srid=TxcX&target_type=answer): "Expensive FLIR cameras defeated by cheap space blankets, expensive facial recognition software defeated by cheap makeup, expensive gait detection systems defeated by a rock in your shoe."
+* How are the platforms I use causing me to adopt their incentives? How are their incentives different from mine?
