@@ -36,3 +36,5 @@
 Reframes
 
 --------
+* Traditions are peer pressure from the dead. 
+* Every time you get bad feedback, think "Cha-ching."
