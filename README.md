@@ -30,4 +30,9 @@
 
 * "What did you learn from X past experience?" This question is difficult, because you don't know what the distribution for that kind of experience looks like. Can you draw a valid inference without that knowledge? E.g. you have a grp project at school, and one of the students is way older than the rest of the class (~26 vs avg age of ~21). You decide to work with him on the thesis that he'll be older and far more mature, organized, and diligent than the other students. He turns out not to be. Was he an anomaly? Presumably? But you can't know without knowing what the distribution looks like. Do you discard your (ostensibly defensible) thesis based on this experience? Casual conversations + job interviews would suggest we do. Orthogonal question --  is what we say in those contexts (convos, interviews) truly reflective of the epistemics that happen under the hood?
 
-* Context is a confluence of factors. Simultaneous presence of several factors. This is obvious -- literally the definition -- but also easy to forget. 
+* Context is a confluence of factors. Simultaneous presence of several factors. This is obvious -- literally the definition -- but also easy to forget.
+
+
+Reframes
+
+--------
