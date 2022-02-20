@@ -32,6 +32,8 @@
 
 * Context is a confluence of factors. Simultaneous presence of several factors. This is obvious -- literally the definition -- but also easy to forget.
 
+* “Creative Cum” -another edgy technique I teach my clients is to use their orgasms for magic & creation. Every time you ‘come’ your mind gets soft like plasticine, it becomes ready for shaping with autosuggestion. In fact an orgasm is a very intense trance state where you can consciously lay down anchors linked to outcomes you want. Why waste such a good opportunity to embed some visions of your desired future? **If you want a new job, imagine your dream job while you’re climaxing. If you want a new car, imagine that.** Whatever you want, visualize that at peak pleasure** -always in 1st person & always in present tense.** [- Annie Lalla](https://annielalla.com/sex-deeper-love-money/)
+
 
 Reframes
 
